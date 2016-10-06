@@ -1,0 +1,21 @@
+{
+  "name": "work_test",
+  "version": "1.0.0",
+  "description": "for all test of work",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "dependencies" : {
+     "https":"",
+     "http":"",
+     "express":"",
+     "iap_verifier":"",
+     "querystring":"",
+     "body-parser":"",
+     "bagpipe":"",
+     "async":""
+  },
+  "author": "JJing",
+  "license": "ISC"
+}
